@@ -27,6 +27,6 @@ Hola Soy Jose David Redondo Perdomo 🤓
   <a href = "redondoperdomojosedavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-david-redondo-perdomo-3b26251a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/josedavid1996/josedavid1996/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
